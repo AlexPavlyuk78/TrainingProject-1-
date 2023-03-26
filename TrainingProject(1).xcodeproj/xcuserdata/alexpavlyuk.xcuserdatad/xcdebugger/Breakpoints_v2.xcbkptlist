@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ED060458-C95F-4CC2-8E58-8B16664AC18B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE72BD31-F206-4CD9-A0FE-393777C4A7EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrainingProject(1)/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CE72BD31-F206-4CD9-A0FE-393777C4A7EA - caf22b76b19b0f99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.greetingLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "CE72BD31-F206-4CD9-A0FE-393777C4A7EA - 5c90c1eb9e355395"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.greetingLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "CE72BD31-F206-4CD9-A0FE-393777C4A7EA - 1be2fe86b5a95066"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.greetingLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "CE72BD31-F206-4CD9-A0FE-393777C4A7EA - 849622eddf5e9d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.greetingLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "CE72BD31-F206-4CD9-A0FE-393777C4A7EA - 4425f8e2e0f0931c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TrainingProject_1_.ViewController"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "CE72BD31-F206-4CD9-A0FE-393777C4A7EA - 328097e97c30fca1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TrainingProject_1_.ViewController&gt;"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1148D37D-2160-46B0-9E3F-9C4C25CC29A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrainingProject(1)/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1148D37D-2160-46B0-9E3F-9C4C25CC29A3 - 7ebeab9ddaa2bc1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.greetingButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1148D37D-2160-46B0-9E3F-9C4C25CC29A3 - 86377f14eb380c61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.greetingButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "1148D37D-2160-46B0-9E3F-9C4C25CC29A3 - f2fda295ec5b181e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.greetingButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1148D37D-2160-46B0-9E3F-9C4C25CC29A3 - a2daf5b1f0af4158"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.greetingButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "1148D37D-2160-46B0-9E3F-9C4C25CC29A3 - 4425f8e2e0f09ca2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TrainingProject_1_.ViewController"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "1148D37D-2160-46B0-9E3F-9C4C25CC29A3 - 328097e97c30f31f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingProject_1_.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TrainingProject_1_.ViewController&gt;"
+                  moduleName = "TrainingProject(1)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexpavlyuk/Desktop/projects/TrainingProject(1)/TrainingProject(1)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
